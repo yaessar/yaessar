@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tereza
-- 👀 I’m a Front end web developer looking for a remote role. 
+- 👀 I’m a Front end web developer 
 - 🌱 I’m currently learning Javascript and automation with Python.
 - 📫 You can reach me on email @ yatereza@gmail.com or twitter @boldlyessar.
 - 
